@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # v-drawer
 [![Build Status](https://travis-ci.org/liujian10/v-drawer.svg?branch=master)](https://travis-ci.org/liujian10/v-drawer)
 
@@ -48,3 +49,7 @@ Vue.component(VDrawer.name, VDrawer);
 | overlay-style | 遮罩层样式 | `String` `Object`| - | - |
 | content-style | 抽屉内容样式 | `String` `Object`| - | - |
 | forbid-click | 禁止背景点击 | `Boolean` | `false` | - |
+=======
+# template
+milk-vue 独立组件模板
+>>>>>>> 0bf2872f9e2eddea362c9faa4a3fc26b4df4e2b5
